@@ -1,6 +1,5 @@
 #EXPERT SYSTEM
 #Jenis Liburan MBTI
-#By : M. Raihan Wahyu, Nadhifa Sofia, Randi Aulia R, Filbert Utomo, Hery Cia Putra.
 
 import csv
 import random
