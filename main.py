@@ -1,5 +1,5 @@
 #EXPERT SYSTEM
-#Jenis Liburan MBTI
+#Jenis Liburan MBTI By Nadhifa Sofia
 
 import csv
 import random
